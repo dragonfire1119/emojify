@@ -1,0 +1,28 @@
+{
+  "name": "emojify",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ttaylorr/emojify.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Taylor Blau",
+  "license": "GNU General Public License",
+  "bugs": {
+    "url": "https://github.com/ttaylorr/emojify/issues"
+  },
+  "homepage": "https://github.com/ttaylorr/emojify",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-mkdir": "^0.1.1",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-phplint": "0.0.5"
+  }
+}
