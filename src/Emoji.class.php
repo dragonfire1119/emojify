@@ -42,7 +42,7 @@
       return sprintf($format,
         $this->locate($formatted),
         $this->size, $this->size,
-        $emoji, $emoji
+        $formatted, $formatted
       );
     }
 
