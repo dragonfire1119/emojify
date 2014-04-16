@@ -3,3 +3,6 @@ node_modules/
 
 # Temp. folder for linting php
 tmp/
+
+/vendor/
+

@@ -1,0 +1,14 @@
+{
+    "name": "ttaylorr/emojify",
+    "description": "Lightweight Emoji library written for PHP.",
+    "license": "GNU General Public License",
+    "authors": [
+        {
+            "name": "Taylor Blau",
+            "email": "me@ttaylorr.com"
+        }
+    ],
+    "require": {
+
+    }
+}
