@@ -5,7 +5,7 @@ Lightweight Emoji library built for PHP.
 ## installation
 
 1. Install [Composer](https://getcomposer.org).
-2. Require emojify with `composer require ttaylorr/emojify 0.0.1`
+2. Require emojify with `composer require ttaylorr/emojify dev-master`
 3. Install all dependencies with `composer install`
 
 ## example usage
